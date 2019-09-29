@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "445594555787",
+    "firebase_url": "https://soulreads-f6c47.firebaseio.com",
+    "project_id": "soulreads-f6c47",
+    "storage_bucket": "soulreads-f6c47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445594555787:android:e50ca5e9088c53a7890b8e",
+        "android_client_info": {
+          "package_name": "com.example.android.soulreads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445594555787-rase2hlub9m78m33qfm1b28k0i1cp5b3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNfQMTXInQ95a1JSmk4op_jGsvUEeGJLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445594555787-rase2hlub9m78m33qfm1b28k0i1cp5b3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
