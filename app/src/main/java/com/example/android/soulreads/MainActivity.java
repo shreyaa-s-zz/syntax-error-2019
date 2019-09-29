@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                             Intent intent = new Intent(MainActivity.this, WelcomeActivity.class);
 //                            EditText editText = (EditText) findViewById(R.id.editText);
 //                            String message = editText.getText().toString();
-                            intent.putExtra("email", "hi");
+                            intent.putExtra("email", editTextEmail.getText().toString());
                             startActivity(intent);
                         } else {
                             Toast.makeText(MainActivity.this, "Could not register", Toast.LENGTH_SHORT).show();
